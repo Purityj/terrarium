@@ -1,1 +1,2 @@
 # terrarium
+The terrarium project
